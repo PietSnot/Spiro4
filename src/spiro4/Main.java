@@ -22,5 +22,4 @@ public class Main {
         else a = 600;
         SwingUtilities.invokeLater( () -> new Spirograaf(a));
     }
-
 }
